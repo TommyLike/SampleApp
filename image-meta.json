@@ -1,6 +1,16 @@
 {
-	"images": [{
-		"name": "library/nginx:latest",
-		"type": "docker"
-	}]
+    "images": [
+        {
+            "name": "library/nginx:1.20",
+            "type": "docker"
+        },
+        {
+            "name": "library/nginx:1.19",
+            "type": "docker"
+        },
+        {
+            "name": "library/nginx:latest",
+            "type": "docker"
+        }
+    ]
 }
