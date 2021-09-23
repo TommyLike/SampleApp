@@ -1,15 +1,15 @@
 {
     "images": [
         {
-            "name": "library/nginx:1.20",
+            "name": "swr.cn-north-4.myhuaweicloud.com/freesky-edward/nginx:latest",
+            "type": "swr"
+        },
+        {
+            "name": "swr.cn-north-4.myhuaweicloud.com/freesky-edward/nginx:1.20",
             "type": "docker"
         },
         {
-            "name": "library/nginx:1.19",
-            "type": "docker"
-        },
-        {
-            "name": "library/nginx:latest",
+            "name": "swr.cn-north-4.myhuaweicloud.com/freesky-edward/nginx:1.19",
             "type": "docker"
         }
     ]
