@@ -6,11 +6,11 @@
         },
         {
             "name": "swr.cn-north-4.myhuaweicloud.com/freesky-edward/nginx:1.20",
-            "type": "docker"
+            "type": "swr"
         },
         {
             "name": "swr.cn-north-4.myhuaweicloud.com/freesky-edward/nginx:1.19",
-            "type": "docker"
+            "type": "swr"
         }
     ]
 }
