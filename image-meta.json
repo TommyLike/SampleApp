@@ -1,0 +1,6 @@
+{
+	"images": [{
+		"name": "library/nginx:latest",
+		"type": "docker"
+	}]
+}
